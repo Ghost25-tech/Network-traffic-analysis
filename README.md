@@ -8,5 +8,4 @@ After analyizing the data presented to me from the DNS and ICMP traffic log, thi
 
 <h2>Documents:</h2>
 
- <h4>
 [Cybersecurity Incident Report](https://github.com/Ghost25-tech/Network-traffic-analysis/blob/main/Cybersecurity%20incident%20report%20network%20traffic%20analysis.pdf)

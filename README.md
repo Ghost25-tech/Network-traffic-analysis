@@ -43,6 +43,6 @@ After analyizing the data presented to me from the DNS and ICMP traffic log, thi
 <h2>Tools used:</h2>
 - DNS and ICMP traffic log 
 
-<h2>Documents:</h2>
+<h2>Incident Report:</h2>
 
 [Cybersecurity Incident Report](https://github.com/Ghost25-tech/Network-traffic-analysis/blob/main/Cybersecurity%20incident%20report%20network%20traffic%20analysis.pdf)
